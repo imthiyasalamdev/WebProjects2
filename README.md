@@ -44,6 +44,19 @@ This repository showcases my ability to recreate the user interfaces of popular 
 - Ability to implement best practices in web development.
 
 
+## Technologies Used
 
+```plaintext
+
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Responsive Web Design
+
+
+
+```
 
 ---
